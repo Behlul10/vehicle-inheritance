@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Moped extends Vehicle {
 
-public class Moped {
 }

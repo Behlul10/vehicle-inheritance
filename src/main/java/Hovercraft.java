@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Hovercraft extends Vehicle{
 
-public class Hovercraft {
 }
